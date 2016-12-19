@@ -21,7 +21,9 @@
     "Microsoft.Extensions.Logging.Console": "1.1.0",
     "Microsoft.Extensions.Logging.Debug": "1.1.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.1.0",
-    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0"
+    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.1.0",
+    "Swashbuckle": "6.0.0-beta902",
+    "microsoft.aspnetcore.mvc.formatters.xml": "1.1.0"
   },
 
   "tools": {

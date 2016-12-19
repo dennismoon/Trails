@@ -1,0 +1,72 @@
+﻿[
+    {
+        "Id": 1,
+        "FirstName": "Brian",
+        "LastName": "Diaz",
+        "Age": 53,
+        "FavoriteBeverage": "wine"
+    },
+    {
+        "Id": 2,
+        "FirstName": "Jack",
+        "LastName": "Sanchez",
+        "Age": 22,
+        "FavoriteBeverage": "gatorade"
+    },
+    {
+        "Id": 3,
+        "FirstName": "Phyllis",
+        "LastName": "Garcia",
+        "Age": 39,
+        "FavoriteBeverage": "wine"
+    },
+    {
+        "Id": 4,
+        "FirstName": "Andrew",
+        "LastName": "Snyder",
+        "Age": 72,
+        "FavoriteBeverage": "beer"
+    },
+    {
+        "Id": 5,
+        "FirstName": "Dennis",
+        "LastName": "Taylor",
+        "Age": 22,
+        "FavoriteBeverage": "water"
+    },
+    {
+        "Id": 6,
+        "FirstName": "Joyce",
+        "LastName": "Palmer",
+        "Age": 64,
+        "FavoriteBeverage": "water"
+    },
+    {
+        "Id": 7,
+        "FirstName": "Daniel",
+        "LastName": "Burke",
+        "Age": 27,
+        "FavoriteBeverage": "soda"
+    },
+    {
+        "Id": 8,
+        "FirstName": "Randy",
+        "LastName": "Gilbert",
+        "Age": 28,
+        "FavoriteBeverage": "gatorade"
+    },
+    {
+        "Id": 9,
+        "FirstName": "Alan",
+        "LastName": "Harvey",
+        "Age": 26,
+        "FavoriteBeverage": "beer"
+    },
+    {
+        "Id": 10,
+        "FirstName": "Lori",
+        "LastName": "Howard",
+        "Age": 60,
+        "FavoriteBeverage": "water"
+    }
+]

@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "trails",
+  "private": true,
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "3.1.1",
+    "jquery-validation": "1.16.0",
+    "jquery-validation-unobtrusive": "3.2.6",
+    "startbootstrap-sb-admin-2": "^1.0.7"
+  }
+}
